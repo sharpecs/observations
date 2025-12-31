@@ -51684,7 +51684,7 @@ q=A.a([],n)
 p=m.r
 if(p.length!==0)B.b.L(q,A.a([new A.qO(A.aSD(o,o,new A.ou(p,r>830?1.65:2.25,o)),new A.alI(),o,o)],n))
 q.push(A.aA(A.a([A.a3(k.b+" | "+m.pp(),o,o,o,o,B.abf,o,o)],n),B.k,B.ay,B.f))
-q.push(A.aE(o,r*0.05,o))
+q.push(A.aE(o,r*0.03,o))
 q.push(A.a3(l.b,o,o,o,o,B.abR,B.br,o))
 q.push(A.a3(l.d,o,o,o,o,o,B.br,o))
 q.push(B.hm)
